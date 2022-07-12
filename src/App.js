@@ -8,9 +8,10 @@ function App() {
 return(
   <div>
     <Navbar />
-    <Routes>
-        <Route path="" exact element={ <Homepage /> } />
-    </Routes>
+    {/* <Routes> */}
+        {/* <Route path="" exact element={ <Homepage /> } /> */}
+        <Homepage />
+    {/* </Routes> */}
   </div>
 );
 }
