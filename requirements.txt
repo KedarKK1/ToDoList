@@ -1,5 +1,0 @@
-djangorestframework
-pytz
-sqlparser
-Django
-asgiref
